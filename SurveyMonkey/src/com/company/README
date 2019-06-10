@@ -1,0 +1,15 @@
+This is the homework 3&4 for Bassey Duke
+
+I used serialization and referred this website
+https://howtodoinjava.com/java/serialization/custom-serialization-readobject-writeobject/
+in the ReadObjectFromFile and the WriteObjectToFile
+
+Everything else including error checking was done to a reasonable extent.
+
+the test files are located in their respective directory.
+
+i had serious issues at first which is why this is late.
+
+The examples files are AnimalTest and survey with responses and correct answers stored in their own directories
+
+this should cover homework 3 and 4
