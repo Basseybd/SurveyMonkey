@@ -1,0 +1,11 @@
+This is the homework 2 for Bassey Duke
+
+I used serialization and referred this website
+https://howtodoinjava.com/java/serialization/custom-serialization-readobject-writeobject/
+in the ReadObjectFromFile and the WriteObjectToFile
+
+Everything else including error checking was done to a reasonable extent.
+
+the test files are located in their respective directory.
+
+i had serious issues at first which is why this is late.
